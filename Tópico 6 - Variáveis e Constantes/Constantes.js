@@ -1,3 +1,5 @@
+// TÓPICO 6 - Variáveis e Constantes
+
 // CONSTANTES
 
 // - Diferente das variáveis, seu valor não pode ser mudado depois de definido;

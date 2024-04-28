@@ -1,3 +1,5 @@
+// TÓPICO 6 - Variáveis e Constantes
+
 // VARIÁVEIS
 
 // - São espaços temporários na memória;
