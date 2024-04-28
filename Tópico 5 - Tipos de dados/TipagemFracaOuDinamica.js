@@ -1,5 +1,12 @@
 // TÓPICO 5 - Tipos de dados
 
+// - Tipagem fraca acaba sendo mais tranquila;
+// - As variáveis armazenam diversos tipos de valores;
+// - Não é necessário declarar as variáveis de forma explicita;
+// - Pode apresentar muitos erros;
+// - O código pode ter um funcionamento mais lento por conta da verificação de tipos;
+
+
 //NÚMERO INTEIRO (int ou integer)
 
 // - Número inteiro positivo ou negativo;

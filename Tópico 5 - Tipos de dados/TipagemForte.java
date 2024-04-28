@@ -1,5 +1,9 @@
 // TÓPICO 5 - Tipos de dados
 
+// - Os tipos devem ser declarados explicitamente;
+// - Tipagem forte acaba sendo mais "complicada" por ter muitos detalhes a ser declarados;
+// - Possui menos chance de error e proporciona um melhor funcionamento;
+
 public class tiposDeDados {
     public static void main(string[] args){
         //Tipos Primitivos
