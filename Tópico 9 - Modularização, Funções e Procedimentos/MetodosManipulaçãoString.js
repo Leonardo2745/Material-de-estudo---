@@ -5,13 +5,13 @@
 
 //Existem algumas funções que nos permitem manipular as Stings no JavaScript como:
 
-// 1 - Função slice()
-// 2 - Função replace()
-// 3 - Função toString()
-// 4 - Função search()
-// 5 - Função charAt()
-// 6 - Função concat()
-// 7 - Função toUpperCase() e toLowerCase())
+// 1 - Função slice();
+// 2 - Função replace();
+// 3 - Função toString();
+// 4 - Função search();
+// 5 - Função charAt();
+// 6 - Função concat();
+// 7 - Função toUpperCase() e toLowerCase());
 
 
 // 1 - Função slice():
